@@ -1,4 +1,4 @@
-# # Readme
+# Readme
 
 Script written to assist graduates in writing shiny application. Exemplifies how to create a function that chooses an aesthetic to plot to a map. 
 
